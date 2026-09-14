@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back end Development**
 
-- 💬 Ask me about **HTML, CSS, and responsive web design.**
+- 💬 Ask me about **I specialize in building responsive web interfaces using HTML and CSS, and I am actively expanding my skill set by mastering Back end Development.**
 
 - 📫 How to reach me **noumanhassan671@gmail.com**
 
