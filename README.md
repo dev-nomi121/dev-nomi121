@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nouman Hassan</h1>
 <h3 align="center">Front End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nomi121&label=Profile%20views&color=0e75b6&style=flat" alt="dev-nomi121" /> </p>
-
 - 🔭 I’m currently working on **Front-end Development**
 
 - 🌱 I’m currently learning **Back end Development**
